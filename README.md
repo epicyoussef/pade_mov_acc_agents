@@ -72,7 +72,3 @@ sample=9 seizure_prob=0.6326
 - `models/`: saved artifacts
 - `tests/`: space for future tests
 
-## Troubleshooting
-- Missing MOV/ACC columns: The demo selects numeric columns with patterns like `MOV`, `ACC`, `MOTION`, `Channel`. Ensure your CSV has relevant features.
-- Empty filtered data: The demo falls back to generic numeric columns and warns.
-- Import errors: The scripts add project root to `sys.path`; run from workspace root.
