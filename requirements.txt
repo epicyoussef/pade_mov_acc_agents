@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+pywavelets
+scipy
+mne
+# PADE stack (may require setuptools<58)
+pade
