@@ -1,4 +1,4 @@
-# PADE MOV/ACC Agent (Independent Project)
+# PADE MOV/ACC Agent
 
 This project is a standalone PADE-based multi-agent demo focused on motion/accelerometer (MOV/ACC) features for seizure prediction. It trains an XGBoost model from the provided CSV and runs a PADE demo streaming feature vectors to an inference agent.
 
